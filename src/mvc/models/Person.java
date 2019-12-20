@@ -29,7 +29,7 @@ public class Person {
     
     public void decX(){
         x--;
-    }
+    } 
     public int getX(){
         return x;
     }*/
@@ -44,7 +44,7 @@ public class Person {
     public String getEmail(){
         return this.email; 
    } 
-    public String getAddres(){
+    public String getAddress(){
         return this.address; 
    }
     
